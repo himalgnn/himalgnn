@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://himal61.com.np](https://himal61.com.np)
+- 👨‍💻 All of my projects are available at [https://himal61.com.np/projects](https://himal61.com.np/projects)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, WordPress**
 
