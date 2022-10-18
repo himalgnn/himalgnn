@@ -33,3 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himalgnn&show_icons=true&locale=en" alt="himalgnn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himalgnn&" alt="himalgnn" /></p>
+
+
+[![@himalgnn's Holopin board](https://holopin.me/himalgnn)](https://holopin.io/@himalgnn)
