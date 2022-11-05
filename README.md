@@ -34,5 +34,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himalgnn&" alt="himalgnn" /></p>
 
-
+<h1 align="center">Badges</h1>
 [![@himalgnn's Holopin board](https://holopin.me/himalgnn)](https://holopin.io/@himalgnn)
