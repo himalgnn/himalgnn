@@ -1,4 +1,4 @@
-<h1 align="center">Namaste :pray: , I'm Himal Guragain</h1>
+<h1 align="center">Hi 👋, I'm Himal Guragain</h1>
 <h3 align="center">A passionate frontend developer & a Tech Enthusiast from Nepal</h3>
 
 <p align="left"> <a href="https://twitter.com/himalgnn" target="blank"><img src="https://img.shields.io/twitter/follow/himalgnn?logo=twitter&style=for-the-badge" alt="himalgnn" /></a> </p>
