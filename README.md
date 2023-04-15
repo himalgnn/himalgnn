@@ -12,7 +12,7 @@
   </p>
 
    <p align="center"> ⚡ Checkout my  <a href="https://himal61.com.np" target="_blank" style="color:white; font-weight:bold;"> Portfolio Site</a>  </p>
-
+<br>
   <h3 align="center">Connect with me:</h3>
 
   <p align="center">
