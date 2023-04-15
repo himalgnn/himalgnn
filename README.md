@@ -1,5 +1,5 @@
 <center style="">
-  <h1 align="center" >Hi 👋, I'm Himal Pariyar</h1>
+  <h1 align="center" >Hi 👋, I'm Himal Guragain</h1>
   <h3 align="center">A passionate frontend developer from Nepal</h3>
 
 
