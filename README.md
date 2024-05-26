@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Himal!<br>🔭 I’m currently working on Static Project<br>🌱 I’m currently learning MERN Stack Development<br>💬 Ask me about ReactJS & WordPress<br>
+👋 Hi, I'm Himal!<br>🔭 I’m currently working on <a target="_blank" href="https://himalgnn.github.io/staticpro">Static Project</a><br>🌱 I’m currently learning MERN Stack Development<br>💬 Ask me about ReactJS & WordPress<br>
 
 
 ## 🌐 Socials:
