@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Himal!<br>🔭 I’m currently working on <a href="https://himalgnn.github.io/staticpro](https://himalgnn.github.io/blog-hgjik" target="_blank">RRPurePixel</a><br>🌱 I’m currently learning MERN Stack Development<br>💬 Ask me about ReactJS & WordPress<br>
+👋 Hi, I'm Himal!<br>🔭 I’m currently working on <a href="https://himalgnn.github.io/blog-hgjik" target="_blank">RRPurePixel</a><br>🌱 I’m currently learning MERN Stack Development<br>💬 Ask me about ReactJS & WordPress<br>
 
 
 ## 🌐 Socials:
