@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Himal Guragain 👋</h1>
 <p align="center">
-  Passionate Web Developer | WordPress Enthusiast | Tech Explorer
+  Passionate Web Developer | Tech Enthusiast 
 </p>
 
 ---
