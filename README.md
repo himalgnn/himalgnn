@@ -1,15 +1,46 @@
-# 💫 About Me:
-👋 Hi, I'm Himal!<br>🔭 I’m currently working on <a href="https://himalgnn.github.io/blog-hgjik" target="_blank">RRPurePixel</a><br>🌱 I’m currently learning MERN Stack Development<br>💬 Ask me about ReactJS & WordPress<br>
+<h1 align="center">Hi, I'm Himal Guragain 👋</h1>
+<p align="center">
+  Passionate Web Developer | WordPress Enthusiast | Tech Explorer
+</p>
 
+---
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/himalgnn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himalgnn) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/himalgnn) 
+## 🧑‍💻 About Me
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=himalgnn&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=himalgnn&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=himalgnn&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I'm a tech enthusiast who loves building dynamic, responsive web applications and solving real-world problems through clean code and intuitive UI/UX. I enjoy working with core web technologies and take pride in optimizing performance and usability.
 
+---
 
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://facebook.com/himalgnn" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/himalgnn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/himalgnn" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?style=flat&logo=X&logoColor=white"/></a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=WordPress&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" />
+</p>
+
+---
+
+## 📌 Featured Project
+
+🔗 [RRPurePixel](https://himalgnn.github.io/blog-hgjik) – A minimal and elegant blogging platform focused on clean UI and smooth experience.
+
+---
+
+<p align="center">📍 Based in Ilam, Nepal • 📫 Reach me at <a href="mailto:himalgnn@gmail.com">himalgnn@gmail.com</a></p>
