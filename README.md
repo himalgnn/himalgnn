@@ -39,8 +39,10 @@ I'm a tech enthusiast who loves building dynamic, responsive web applications an
 
 ## 📌 Featured Project
 
+🔗 [PokeMan](https://himalgnn.github.io/pokeman-react-app/) – A React App which displays Pokemon data - built using PokeAPI
+
 🔗 [RRPurePixel](https://himalgnn.github.io/blog-hgjik) – A minimal and elegant blogging platform focused on clean UI and smooth experience.
 
 ---
 
-<p align="center">📍 Based in Ilam, Nepal • 📫 Reach me at <a href="mailto:himalgnn@gmail.com">himalgnn@gmail.com</a></p>
+<p align="center">📍 Based in Kathmandu, Nepal • 📫 Reach me at <a href="mailto:info@himal61.com.np">info@himal61.com.np</a></p>
